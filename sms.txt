@@ -1,0 +1,8 @@
+NAME		PRICE		PRNO
+cookie		29		1
+cake		92		2
+oil		150		16
+plate		2000		20
+tub		550		9
+JUICE		35		8
+milk		14		13

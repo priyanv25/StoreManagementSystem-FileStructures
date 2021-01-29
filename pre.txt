@@ -1,0 +1,6 @@
+chopstick	10		18
+noodles 	50		19
+cake		92		2
+oil		150		16
+plate		2000		20
+mug		570		21
