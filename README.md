@@ -9,5 +9,5 @@ File structure project developed using **c++**. <br> The store management system
 **Co-sequential processing** - file processing technique to simultaneously process input from two large files and provided a merged file with common inputs.<br>
 *The project was developed for my File structures course(VTU).*
 
-**NOTE** - Please view the report folder for detailed information on this repo.
+**NOTE** - Please view the report folder for detailed information on this repo.<br>
 *Running the file : Run the sms2.cpp file to startup the project*
